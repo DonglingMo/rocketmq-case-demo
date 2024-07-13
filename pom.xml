@@ -11,6 +11,7 @@
     <modules>
         <module>rocketmq-producer</module>
         <module>rocketmq-spring</module>
+        <module>rocketmq-consumer-spring</module>
     </modules>
 
     <properties>
